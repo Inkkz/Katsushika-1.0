@@ -29,7 +29,7 @@
   
 <a href='https://heroku.com/deploy'>
   
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Issa2001/test2)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Issa2001/katsushika-1.0)
 
 </div>
   
