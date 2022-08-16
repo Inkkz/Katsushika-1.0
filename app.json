@@ -1,0 +1,43 @@
+{
+  "name": "Katsushika 1.0",
+  "description": "A starter anime themed WhatsApp bot",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "katsushika",
+    "whatsapp-anime-bot"
+  ],
+  "logo": "https://raw.githubusercontent.com/Issa2001/Katsushika-1.0/master/assets/images/mizu.jpg",
+  "website": "https://github.com/Issa2001/Katsushika-1.0#readme",
+  "repository": "https://github.com/Issa2001/Katsushika-1.0.git",
+  "success_url": "/",
+  "env": {
+    "BOT_NAME": {
+        "description": "Name of your bot"
+    },
+    "PREFIX": {
+      "description": "Prefix of your bot"
+    },
+    "SESSION": {
+      "description": "A string for the session to be classified and to get access to the server endpoints"
+    },
+    "MODS": {
+      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
+      "required": false
+    },
+    "MONGO_URI": {
+      "description": "A secret String for Mongodb Connection.(Required)"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ]
+}
