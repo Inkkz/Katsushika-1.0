@@ -61,6 +61,12 @@
 
  - Katsushika 1.0 is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/Issa2001/Katsushika-1.0/blob/master/LICENSE).
 
+##  🚀 Contributors
+
+<a href="https://github.com/Issa2001/Katsushika-1.0/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Issa2001/Katsushika-1.0" />
+</a>
+
 ## 🎗Help
 
 Please give this repo a ⭐ if it helped you.
