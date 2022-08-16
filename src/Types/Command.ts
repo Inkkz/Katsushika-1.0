@@ -33,3 +33,4 @@ interface ICommandConfig {
 }
 
 export type TCategory = 'dev' | 'coding' | 'nature' | 'educative' | 'general' | 'weeb' | 'utils' | 'fun' | 'moderation' | 'media' | 'category' | 'nsfw'
+
