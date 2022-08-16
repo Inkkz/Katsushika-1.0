@@ -32,4 +32,4 @@ interface ICommandConfig {
     cooldown?: number
 }
 
-export type TCategory = 'dev' | 'general' | 'weeb' | 'utils' | 'fun' | 'moderation' | 'media' | 'category' | 'nsfw'
+export type TCategory = 'dev' | 'coding' | 'nature' | 'educative' | 'general' | 'weeb' | 'utils' | 'fun' | 'moderation' | 'media' | 'category' | 'nsfw'
