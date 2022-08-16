@@ -64,7 +64,7 @@
 ##  🚀 Contributors
 
 <a href="https://github.com/Issa2001/Katsushika-1.0/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Issa2001/Katsushika-1.00" />
+  <img src="https://contrib.rocks/image?repo=Issa2001/Katsushika-1.0" />
 </a>
 
 ## 🎗Help
